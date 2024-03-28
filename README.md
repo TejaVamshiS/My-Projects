@@ -19,4 +19,4 @@ I am open to contributions. If you have a code to share or any errors in the exi
 # Get in Touch
 If you have any suggestions, you can contact me through GitHub or using the email tejavamshireddy@gmail.com.
 
-# Happy Coding!
+## Happy Coding!
